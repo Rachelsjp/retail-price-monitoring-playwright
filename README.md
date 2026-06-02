@@ -157,35 +157,11 @@ Retail-Price-Monitoring-Playwright/
 │
 ├── playwright_keyfunctions.py
 ├── retail_price_monitor.py
-├── Retail_Price_Report.csv
-├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## **Installation**
-
-### Clone Repository
-
-```bash
-git clone <repository-url>
-cd <repository-name>
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Install Playwright Browser
-
-```bash
-playwright install
-```
-
----
 
 ## **Run Playwright Learning Demo**
 
