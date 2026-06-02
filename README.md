@@ -161,7 +161,14 @@ Retail-Price-Monitoring-Playwright/
 ```
 
 ---
+## **Installation**
 
+### Install Dependencies
+
+```bash
+pip install playwright
+pip install pandas
+```
 
 ## **Run Playwright Learning Demo**
 
